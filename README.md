@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+```Bash
+./researh --main=security --other=react-dev
+```
 <!--
 **adatdat/adatdat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
